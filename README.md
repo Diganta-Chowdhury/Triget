@@ -34,7 +34,7 @@ An application for making vacation reservations that helps users in researching 
 ## Location details : Whenever a user chooses a destination, the app will display all relevant information about the location. So that, the user will have a basic understanding of the location and be interested in visiting.
 <img src="https://user-images.githubusercontent.com/115551112/228134035-fe8b69bc-c439-4d97-b1ee-657d255a7148.jpeg" width="300" Height="600">
 
-## Tour Info : After engaging, a user's primary concerns are the purpose of the travel vehicle, a secure place to stay, and an estimate of the total cost.So, in order to receive a cost estimate, the user must complete out the following form.
+## Tour Info : After engaging, a user's primary concerns are the purpose of the travel vehicle, a secure place to stay, and an estimate of the total cost. So, in order to receive a cost estimate, the user must complete out the following form.
 <img src="https://user-images.githubusercontent.com/115551112/228135399-3361ef0f-747e-4a94-87b9-0bd7a06c9e85.jpeg" width="300" Height="600">
 
 ## Tour Duration : Here, the user must enter the trip's duration for calculation purposes.
